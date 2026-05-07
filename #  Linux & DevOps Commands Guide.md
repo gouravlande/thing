@@ -1,5 +1,5 @@
 
-# 🧑‍💻 Linux & DevOps Commands Guide
+# Linux & DevOps Commands Guide
 
 This file contains commonly used Linux commands with explanations.
 
